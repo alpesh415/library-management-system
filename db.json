@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Shershaah",
+      "overview": "Biopic of Captain Vikram Batra",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwoMuSrIyR5bmGZ6sKkCr5icZP3Nd7vf8GWjKRGDDYYQ&s=10",
+      "vote_average": 8.6,
+      "release_date": "2021-08-12",
+      "original_language": "hindi"
+    },
+    {
+      "id": 2,
+      "title": "3 Idiots",
+      "overview": "College life and friendship story",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrOZGz-MpJUsb_qUGjOAhTVtGjEv-7_PLDSOdxORi0UA&s=10",
+      "vote_average": 8.4,
+      "release_date": "2009-12-25",
+      "original_language": "hindi"
+    },
+    {
+      "id": 3,
+      "title": "RRR",
+      "overview": "Two freedom fighters story",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchp1n9mSUrC53yDMDh10LSmLolsy9aoz8vAiNT8iwlw&s=10",
+      "vote_average": 8.7,
+      "release_date": "2022-03-25",
+      "original_language": "telugu"
+    },
+    {
+      "id": 4,
+      "title": "Panchayat",
+      "overview": "Village comedy drama story",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB10eLCIz_lg6uy4zUFV5OX-NQrZZP-_kW_f3oFnBNBA&s=10",
+      "vote_average": 8.5,
+      "release_date": "2022-04-14",
+      "original_language": "hindi"
+    },
+    {
+      "id": 5,
+      "title": "Kalki 2898 AD",
+      "overview": "Sci-fi futuristic epic story",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mcqhMAw154adzBUPX5k5aqVjcigojlMFvCURoI7B6Q&s=10",
+      "vote_average": 8.5,
+      "release_date": "2024-06-27",
+      "original_language": "telugu"
+    },
+    {
+      "id": 6,
+      "title": "Pathaan",
+      "overview": "Spy thriller action movie",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfq9rihMmwRcDRkq7mlt06shungqmqvHV0O5jti6xXPw&s=10",
+      "vote_average": 7.8,
+      "release_date": "2023-01-25",
+      "original_language": "hindi"
+    },
+    {
+      "id": 7,
+      "title": "Jawan",
+      "overview": "Action revenge story",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiaoal6gEZEOzR57L4ZUw8MviqFudIr8gbSVF7bgW4g&s=10",
+      "vote_average": 8.2,
+      "release_date": "2023-09-07",
+      "original_language": "hindi"
+    },
+    {
+      "id": 8,
+      "title": "Animal",
+      "overview": "Father-son emotional action drama",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANAZkIaaAmnr589rWcsUHKcbKQb-qRNpgNmAtY1t6LA&s=10",
+      "vote_average": 7.5,
+      "release_date": "2023-12-01",
+      "original_language": "hindi"
+    }
+  ]
+}
